@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { useAuth } from "./contexts/AuthContext";
-import "./Landing.css";
+import "./landing.css";
 
 export default function Landing() {
   const [message, setMessage] = useState("");
