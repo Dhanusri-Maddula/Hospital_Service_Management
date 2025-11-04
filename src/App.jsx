@@ -30,7 +30,7 @@ import Telemedicine from "./pages/Telemedicine";
 import Billing from "./pages/Billing";
 
 // Staff Service Pages
-import Attendance from "./pages/Attendance";
+import Attendance from "./pages/AttendanceReal";
 import Shifts from "./pages/Shifts";
 import Leave from "./pages/Leave";
 import Overtime from "./pages/Overtime";
